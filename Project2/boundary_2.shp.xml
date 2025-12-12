@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20251212</CreaDate><CreaTime>15463100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\AddField" Date="20251212" Time="154631">AddField C:\Users\dlamb6\Desktop\GISProgrammingProject\boundary_2.shp elevation "Float (32-bit floating point)" # # # # NULLABLE NON_REQUIRED #</Process></lineage></DataProperties></Esri></metadata>
